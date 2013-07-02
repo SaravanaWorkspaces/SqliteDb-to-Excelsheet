@@ -82,7 +82,7 @@ public class MainActivity extends Activity {
 		
 	}
 	
-
+	//exports as XL file
 	public void exporting_sqlite(String fileName)
 	{
 		//fileName="saranTest";
